@@ -7,6 +7,18 @@
 > holding. The animal-pressure side of the nitrate equation.
 
 ---
+![Holdings by stocking class](docs/stocking_classes.png)
+*A U-shaped distribution: very low (<2) and very high (>8 head/ha SF) classes dominate — two production models coexist in the zone, land-based and quasi-landless intensive.*
+
+![Aggregate comparison 2025–2026](docs/comparison_2025_2026.png)
+*Aggregate change on the 412 common holdings with cattle: forage surface up 1.4 %, herd down 1.6 % — a slight extensification in the aggregate.*
+
+
+![Variation typology](docs/variation_typology.png)
+*The same change, holding by holding: growth (34 %) and contraction (16 %) coexist with opposite-direction movements — aggregate stability conceals strong individual dynamics.*
+
+![Herd type transitions](docs/herd_type_transitions.png)
+*Herd composition 2025 → 2026: most holdings keep their type (72 % on the diagonal), but note the exits — holdings without cattle rose from 17 to 43.*
 
 ## Why stocking rates matter here
 
