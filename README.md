@@ -50,7 +50,7 @@ Stocking rates cannot be read off any single source:
 - **Forage surface** lives in the land-parcel registry (iSIP sub-parcels
   with land-cover classes), and must be computed per holding from an
   explicit list of forage categories;
-- **Bovine numbers** live in the zone's monitoring database (Access),
+- **Bovine numbers** live in the zone's monitoring database,
   split across holdings and livestock tables keyed by taxpayer number
   (NIF);
 - The **NIF is stored differently in every source** — numeric in one,
